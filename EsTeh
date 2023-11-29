@@ -1235,3 +1235,1148 @@ http://watch-myjokertv.xyz:8080/46536005/fM5gOvLuD6/321796
 
 #EXTINF:-1 tvg-logo="http://mirror.streamhubtv.me:8080/images/28077923bbc029dbd488d5e2e84213b6.png" group-title="ALL in", USA: FOX DEPORTES
 http://watch-myjokertv.xyz:8080/46536005/fM5gOvLuD6/320061
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://agrupaciojugadors.fcbarcelona.com/
+#EXTINF: -1 tvg-logo="https://bit.ly/45Ak5BL" group-title="# 😎 WELCOME MY PLAYLIST ERNESTO 085163732986 😎 #", Cant Del Barca 2986 😎
+#EXTVLCOPT:http-referrer=https://www.fcbarcelona.com/
+https://www.fcbarcelona.com/fcbarcelona/document/2023/02/16/da82cc8c-b7af-47c4-80df-22a945aa56a0/HimnoFCB-CORAL-SANT-JORDI-.mp3
+
+#EXTINF:-1 tvg-logo="https://bit.ly/404Cdm3" group-title="# 😎 WELCOME MY PLAYLIST ERNESTO 085163732986 😎 #", 😎 CHAT WA 085163732986
+
+#EXTINF:-1 tvg-logo="https://bit.ly/491pDIr" group-title="# 😎 WELCOME MY PLAYLIST ERNESTO 085163732986 😎 #", 😎 TRAKTIR 085163732986
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://37.1.193.131
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVlDjKBfZSajj6DSTPUGaH_rVuNNlmX-rqLQ&usqp=CAU" group-title="ERnesto BARU", AXL idlix
+#EXTVLCOPT:http-referrer=https://37.1.193.131/
+https://acefile.co/player/58992705/video-d21-fun-a-x-l-2018-mp4-mp4
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ganool.wiki
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVlDjKBfZSajj6DSTPUGaH_rVuNNlmX-rqLQ&usqp=CAU" group-title="ERnesto BARU", AXL
+#EXTVLCOPT:http-referrer=https://ganool.wiki/
+https://data03.streamku.xyz/f/2018/1/A-X-L.2018.720p.BluRay.x264-%5Bdriveq.xyz%5D.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mhdtvworld.me
+#EXTINF: -1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2023/08/movies.webp" group-title="ERnesto BARU", MOVIE
+#EXTVLCOPT:http-referrer=https://mhdtvworld.me/
+https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index_1.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mhdtvworld.me
+#EXTINF: -1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2023/09/bestaction.webp" group-title="ERnesto BARU", Best Action
+#EXTVLCOPT:http-referrer=https://mhdtvworld.me/
+https://streams.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/ea1f4066-1e8b-4cfd-8197-5217d61713ae/0.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mhdtvworld.me
+#EXTINF: -1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2023/09/bestth.webp" group-title="ERnesto BARU", Best Triller
+#EXTVLCOPT:http-referrer=https://mhdtvworld.me/
+https://streams.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/ea1f4066-1e8b-4cfd-8197-5217d61713ae/0.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mhdtvworld.me
+#EXTINF: -1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2021/01/tr-2-200x300.jpg" group-title="ERnesto BARU", Adventure of Tarzan
+#EXTVLCOPT:http-referrer=https://mhdtvworld.me/
+https://d2bzi6fedfub3a.cloudfront.net/shemaroo-vod/altplatform/AdventureOfTarzanFUMHDmp4-131/1920x1080_3000000/video.m3u8?hdnts=st=1699353277~exp=1699364077~acl=*~data=testdata~hmac=c4d14a8a241b079af7d374c51daa435b32fb810223d79153243405d1b89b7dd3
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mhdtvworld.me
+#EXTINF: -1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2021/01/mn-200x300.jpg" group-title="ERnesto BARU", Main Hoon part time killer
+#EXTVLCOPT:http-referrer=https://mhdtvworld.me/
+https://d2bzi6fedfub3a.cloudfront.net/shemaroo-vod/altplatform/MainHoonPartTimeKillerFUMHDmp4-644/main.m3u8?hdnts=st=1699353277~exp=1699364077~acl=*~data=testdata~hmac=c4d14a8a241b079af7d374c51daa435b32fb810223d79153243405d1b89b7dd3
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mhdtvworld.me
+#EXTINF: -1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2021/01/n1-200x300.jpg" group-title="ERnesto BARU", No.1 killer Mr X
+#EXTVLCOPT:http-referrer=https://mhdtvworld.me/
+https://d2bzi6fedfub3a.cloudfront.net/shemaroo-vod/altplatform/No1KillerMrXFUMHDmp4-934/main.m3u8?hdnts=st=1699352718~exp=1699363518~acl=*~data=testdata~hmac=115cdf309ecce54c109f3a17c8d4b87ec0d25fa1ef98d6e3b0966baefd7047b6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mhdtvworld.me
+#EXTINF: -1 tvg-logo="https://mhdtvworld.me/wp-content/uploads/2021/01/r7ZHopNI41ZIhgvfOSPfaNtoUBP-200x300.jpg" group-title="ERnesto BARU", Bunker 2020 Hindi
+#EXTVLCOPT:http-referrer=https://mhdtvworld.me/
+https://d2bzi6fedfub3a.cloudfront.net/shemaroo-vod/altplatform/BunkerFUMHDmp4-968/main.m3u8?hdnts=st=1699353277~exp=1699364077~acl=*~data=testdata~hmac=c4d14a8a241b079af7d374c51daa435b32fb810223d79153243405d1b89b7dd3
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREAsx9-Y-goTnThQA50XEO2nPmiBOX0PyL1w&usqp=CAU" group-title="YT Live TV",Al Jazeera English
+https://youtube-hls-m3u8.nixiehai263.repl.co/video/gCNeDWCI0vo.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREAsx9-Y-goTnThQA50XEO2nPmiBOX0PyL1w&usqp=CAU" group-title="YT Live TV",Al Jazeera Arabic
+https://youtube-hls-m3u8.nixiehai263.repl.co/video/bNyUyrR0PHo.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdns-images.dzcdn.net/images/talk/9cd4eb7e7bd250ad246a8cc179cf6287/264x264.jpg" group-title="YT Live TV",DW News
+https://youtube-hls-m3u8.nixiehai263.repl.co/video/pqabxBKzZ6M.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu-lcGd-0xBQhE2o1WbwaZmljtbVsp-GXBvyuUwz3HrjSfB0s&s" group-title="YT Live TV",France 24 English
+https://youtube-hls-m3u8.nixiehai263.repl.co/video/tkDUSYHoKxE.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGuKoZVVKWf5oZk5MHSXyiGxqm3mP8KFIDHl_a_cPuQHvoW01FZuPVhHc&s=10" group-title="ERnesto Indonesia", NET
+http://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://goal.yalla-shoot-tv.live
+#EXTINF: -1 tvg-logo="https://bit.ly/3FOJCNn" group-title="ERnesto Sport Event Live", Yalla shoot 1
+#EXTVLCOPT:http-referrer=https://goal.yalla-shoot-tv.live/
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://goal.yalla-shoot-tv.live
+#EXTINF: -1 tvg-logo="https://bit.ly/3FOJCNn" group-title="ERnesto Sport Event Live", Yalla shoot 2
+#EXTVLCOPT:http-referrer=https://goal.yalla-shoot-tv.live/
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:0 group-title="ERNESTO" tvg-logo="https://w7.pngwing.com/pngs/239/762/png-transparent-rcti-television-logo-gtv-sctv-tv-program-logo-blue-text-trademark.png",RCTI https://d1pnf1a0i0fmio.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="CLUB FOOTBALL", ##CLUB FOOTBALL###
+https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+
+
+
+#EXTINF:-1 group-title="ERNESTO CHAMPION LEAGUE",DAZN
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd
+#EXTINF:-1 group-title="ERNESTO CHAMPION LEAGUE",DAZN
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
+#EXTINF:-1 group-title="ERNESTO CHAMPION LEAGUE"DAZN
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
+
+
+
+#EXTINF:-1 group-title="ERNESTO LIGA JERMAN BUNDESLIGA",DAZN
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-058/stream.mpd
+#EXTINF:-1 group-title="ERNESTO LIGA JERMAN BUNDESLIGA",DAZN
+#https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd
+
+
+
+#EXTINF:-1 group-title="ERNESTO SERI A",SERI A
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=13184_&extension=ts
+#EXTINF:-1 group-title="ERNESTO SERI A",SERI A
+#https://tv.qreatifku.my.id/nosignal.m3u8
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=862_&extension=ts
+#EXTINF:-1 group-title="ERNESTO SERI A",SERI A
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ERNESTO SERI A",SERI A
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="ERNESTO SERI A" SERI A
+https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv265&offset=1&nodelay=1
+
+
+#EXTINF:-1 group-title="ERNESTO SERI A",LIGA ITALI
+#https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiKPvU2kjv66oefwgIQf5M3RRawtut9qxfPw&usqp=CAU" group-title="ERNESTO SERI A LIGA SPANYOL", RMC SPORT 1
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/1937.ts
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/83c20e93f805d1c0de43abcaf10f42de.png" group-title="ERNESTO SERI A LIGA SPANYOL", ES: MOVISTAR LaLiga
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/1141
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/2f992ea3f06a9d0385df6e3e39e2c00b.png" group-title="ERNESTO SERI A LIGA SPANYOL", ES: MOVISTAR LaLiga 2
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/5311
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/22ba20bcd4a9505d1ad7435f1dceaa93.png" group-title="ERNESTO SERI A LIGA SPANYOL", ES: MOVISTAR LaLiga 3
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/281772
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/158d3d24cbf3ba9dc16e939750ab0ad9.png" group-title="ERNESTO SERI A LIGA SPANYOL", ES: MOVISTAR LaLiga 4
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/269466
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/8547f7041c05f04ce7aad56c67b64481.png" group-title="ERNESTO SERI A LIGA SPANYOL", ES: MOVISTAR LaLiga 5
+http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/281792
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#ERNESTO🏍️EVENT GP&F1🏎️#", GP 1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508165&extension=ts&play_token=LwIO2B91Rs
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#ERNESTO🏍️EVENT GP&F1🏎️#", GP 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#ERNESTO🏍️EVENT GP&F1🏎️#", GP 3
+http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3616
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#ERNESTO🏍️EVENT GP&F1🏎️#", GP 4
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239082&extension=ts&play_token=a0dyarOiLA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#ERNESTO🏍️EVENT GP&F1🏎️#", GP 5
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=a0dyarOiLA
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#ERNESTO🏍️EVENT GP&F1🏎️#", F1 1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508331&extension=ts&play_token=U71gOhaI4v
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#ERNESTO🏍️EVENT GP&F1🏎️#", F1 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83453&extension=ts&play_token=U71gOhaI4v
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#ERNESTO🏍️EVENT GP&F1🏎️#", F1 3
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692428&extension=ts&play_token=cz0KKH7WWe
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#ERNESTO🏍️EVENT GP&F1🏎️#", F1 4
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61977_&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="#ERNESTO🏍️EVENT GP&F1🏎️#", F1 5
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=317784&extension=ts&play_token=cz0KKH7WWe
+
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="ERNESTO LIGA INDONESIA", Indosiar
+http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/162138
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="ERNESTO LIGA INDONESIA", Indosiar
+http://103.166.27.2:800/play/a016
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="ERNESTO LIGA INDONESIA", Indosiar
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/162138.ts
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="V LIGA INDONESIA", Indosiar
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162138
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="ERNESTO LIGA INDONESIA", Indosiar
+https://ktpremium.com:443/A0112/8544/73617
+
+#EXTINF:-1 group-title="ERNESTO LIGA INDONESIA" tvg-id="mncsports3.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/MNCSports_%282020%29.png",MNC Sports 3
+https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+#EXTINF:-1 group-title="ERNESTO LIGA INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",MNC Sports 3
+https://av-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+
+#EXTINF:-1 group-title="ERNESTO LIGA INDONESIA" tvg-id="MNCSports3.id" tvg-url="-----------------------l" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",Sportstars 3 HD
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:-1 group-title="ERNESTO LIGA INDONESIA" tvg-id="MNCSports4.id" tvg-url="-----------------------l" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4 HD
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/SS3.png" group-title="ERNESTO LIGA INDONESIA", SPORTSTAR 3
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151181.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/SS3.png" group-title="ERNESTO LIGA INDONESIA", SPORTSTAR 3
+http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298549.ts
+
+
+
+#EXTINF:-1 group-title="ERNESTO PIALA LIGA EROPA" ,LIGA EROPA
+https://quiet-rain-1d8f.wkwkw.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
+
+
+#EXTINF:-1 group-title="ERNESTO MLS",MLS
+#https://hs3.04lv.com/live/H1907132.m3u8?txSecret=fb1672d4e52541ff732fff0a16d49162&txTime=64E2B009&_s=stream
+https://hs3.04lv.com/live/H1895967.m3u8?txSecret=b978b98863b4c3b3b90260f0a290d005&txTime=64DD5040&_s=stream
+
+
+#EXTINF:-1 group-title="ERNESTO PREMIER LEAGUE",PREMIER LEAGUE
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
+
+#EXTINF:-1 group-title="ERNESTO PREMIER LEAGUE",PREMIER LEAGUE
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
+
+#EXTINF:-1 group-title="ERNESTO PREMIER LEAGUE",PREMIER LEAGUE
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd
+
+#EXTINF:-1 group-title="ERNESTO PREMIER LEAGUE",PREMIER LEAGUE
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
+
+#EXTINF:-1 group-title="ERNESTO PREMIER LEAGUE",PREMIER LEAGUE
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
+
+#EXTINF:-1 group-title="ERNESTO PREMIER LEAGUE",PREMIER LEAGUE
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYnsZoGidP8S19kGUQd8C-WBNlVfajCpthpg&usqp=CAU" group-title="CLUB FOOTBALL", LAZIO TV
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=691244&extension=ts&play_token=zMlRAkEXDp 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl17ZjZCJ21cKlPNEIScxLjjBOKUB7kLiKog&usqp=CAU" group-title="CLUB FOOTBALL", MILAN TV
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=691246&extension=ts&play_token=wdpy8uaE34 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiA0z8oLemtUYzPXR0V9VFkFizpkK0zyhJRw&usqp=CAU" group-title="CLUB FOOTBALL", INTER TV
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=691245&extension=ts&play_token=tMXZqPBIvZ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQot9oGGoFoScQKBuwvoLobbl6kVau0_wLg&usqp=CAU" group-title="CLUB FOOTBALL", LFC TV
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=910647&extension=ts&play_token=0DoacREKXn 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREHf5Vq19Bkg9rDlGTRLTaxfRdsXbHhWMQhw&usqp=CAU" group-title="CLUB FOOTBALL", MUTV
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=45324&extension=ts&play_token=OwHIPoa0iZ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjVL_Fd9_8Yp-uFnIR_LRr_WLFuqPFS1kYag&usqp=CAU" group-title="CLUB FOOTBALL", BAYER FC
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=411413&extension=ts&play_token=1U3jpWdf0t
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP21xa_60aZYB2mrkQcqANQUPcQPpYUwSndw&usqp=CAU" group-title="CLUB FOOTBALL", SPORTING TV
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=107430&extension=ts&play_token=l3FEluZCt1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzn46J_9eH1PGRchZniqLoBoSovSKzFfby7A&usqp=CAU" group-title="CLUB FOOTBALL", BTV BENFICA
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=983567&extension=ts&play_token=KIl56CmfeQ
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLtQRHjRZlYfBxxA73H4WfyIESKEmbK6T1lA&usqp=CAU" group-title="CLUB FOOTBALL", REAL MADRID TV
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=55543_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZHrR_ih_g1rYHvSaKFC9y_7LGFbuB4zJWjw&usqp=CAU" group-title="CLUB FOOTBALL", BARCA TV
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/1170
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkXhbSwjuSP-XuaUPzDRs9BBg1vWmOUpSGg&usqp=CAU" group-title="CLUB FOOTBALL", GALATASARAY TV
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=7875_&extension=ts&play_token=FcCkSLTtTN
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl6MCmhuaV1Un8Zx7XUHnSWxUVBOANby0lDZb4pTCroTioIBaVx1ewjJEO&s=10" group-title="CLUB FOOTBALL", FENERBACE TV
+http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=7874_&extension=ts&play_token=FcCkSLTtTN
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="ERNESTO Indonesia",RCTI HD 2986
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="ERNESTO Indonesia",MNC TV 2986
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="GTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/GTV.png" group-title="ERNESTO Indonesia", GTV 2986
+https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="ERNESTO Indonesia",TransTV HD 2986
+https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="ERNESTO Indonesia",Trans7 HD 2986
+https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="ERNESTO Indonesia",Moji 2986
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
+
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="ERNESTO Indonesia",Moji 2986
+http://tvnid.x10.mx/vidio/master-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="ERNESTO Indonesia" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="SCTV.id" tvg-name="SCTV", SCTV 2986
+http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="ERNESTO Indonesia" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar HD 2986
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+
+#EXTINF:-1 tvg-id="NET.id" group-title="ERNESTO Indonesia" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.mncnow.id/images/channel/b32939e5/00e6_r32.jpg",NET 2986
+https://op-group1-swiftservehd-1.dens.tv/h/h06/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ERnesto Indonesia", MUTV HD
+http://watch-myjokertv.xyz:8080/46536005/fM5gOvLuD6/371373
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ERnesto Indonesia", MUTV FHD
+http://watch-myjokertv.xyz:8080/46536005/fM5gOvLuD6/371374
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ERnesto Indonesia", MUTV SD
+http://watch-myjokertv.xyz:8080/46536005/fM5gOvLuD6/371375
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ERnesto Indonesia", LaLigaTV FHD
+http://watch-myjokertv.xyz:8080/46536005/fM5gOvLuD6/371376
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ERnesto Indonesia", LaLigaTV HD
+http://watch-myjokertv.xyz:8080/46536005/fM5gOvLuD6/371377
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ERnesto Indonesia", LFC TV HD
+http://watch-myjokertv.xyz:8080/46536005/fM5gOvLuD6/371382
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ERnesto Indonesia", LFC TV FHD
+http://watch-myjokertv.xyz:8080/46536005/fM5gOvLuD6/371383
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ERnesto Indonesia", MUTV SD
+http://watch-myjokertv.xyz:8080/46536005/fM5gOvLuD6/371375
+
+#EXTM3U
+#EXTINF:-101 group-title="RELIGION" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV
+http://210.210.155.35/qwr9ew/s/s28/index.m3u8
+
+#EXTINF:-102 group-title="RELIGION" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png",MADINAH TV
+http://210.210.155.35/qwr9ew/s/s27/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+#EXTINF: -1 tvg-logo="https://tinyurl.com/yl95gw35" group-title="REQUEST PLAYLIST", AXN 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://uvp-kurier.sf.apa.at
+#EXTINF: -1 tvg-logo="https://bit.ly/3tvhMTa" group-title="REQUEST PLAYLIST", KURIER TV
+#EXTVLCOPT:http-referrer=https://uvp-kurier.sf.apa.at/
+https://schautv.mdn.ors.at/out/u/schautv-nodrm_2.m3u8?guid=c5bca0ef-7394-4b87-a48b-b625dfae0101&m=1677431912
+
+#EXTINF: -1 tvg-logo="https://bit.ly/3RZxU9P" group-title="REQUEST PLAYLIST", ADS SPORT
+https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8
+
+#EXTINF: -1 tvg-logo="https://bit.ly/45DYvfR" group-title="REQUEST PLAYLIST", YAS TV
+https://admdn1ta.cdn.mgmlcdn.com/yastv/smil:yastv.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.squidtv.net/img/logo_sqtv0141.png" group-title="REQUEST PLAYLIST", COCOLA TV
+https://video-weaver.jkt02.hls.ttvnw.net/v1/playlist/CrUFTixBgt7-cuTGDLNsDp2uTENYpvvYVLoSIiu8AyYJKo-whELqk46Lyelu2CiXrtIoGuE9MCRwxI7voALpv2l6O95YX9bSB5sJdc--YggCyYZ9HL8eO87SBPpiF6eEKO5h_teDnoj0wdrNgZMamIMTk5WEKtFzcpErta9D3OQlXQAvrA5Pn39THUJuFNvUOXqDDrhhZt5wZ3eTg_T3xFRR0MM5s-Ft1n7YrXG0WIm6PBDO2rx2wu_9Bku0BNX7ETtWt2AkXCV4iGHTl7wjuXUapX0Z_FZTydT61W9ZwWxN8-Sw3tW_IqlcjR-zkwm0O_jildF3Wzg2Gt0PZqxKojKH5jkjbKxDCgJNpz1_chp1hV1P9uNsRe697xJhwhLqi3kMOksjU-wzYcTwErsKF3Rq1mLtK0KMXqSwFYolFJbAMFh8j1OoaE8HqHI3zx-dir9wnS2bXmLeU9EJ3PwhpJaDNUdQwK_4FJbg472lhJL3TtF-1zFTqcB6pjQ4yUCJUgM3J42-_jN6yOQmpckHVCAB55789PU6pknhnKdlGGiedgM7lco1idbej7eHGyDKmAcfCGwkgBhnxSnFK5SZOCY3sDR71XeOVFCb88FKgiFAUJv0M3xn82rCbuinuetQ2VttEZi-SIjYa2D7dIvJSAPo_VA8pDul-BY6xu67mqHfOKO_dYy5G5cSC4F45MCgXdmpABRz3RRNdXG8BPlBXAF29DPsAhAhafo_5dIEH-hpwFFPwYnocpYmyAgGAfO6wz7C6sX8u_ksSXG8dTT0aHS0ax3W9cg-0uiF5GKdfZfu8j6M7E7_L19qKCAkLeXaXc1HCTz1EAYzZK-RR_SDj4PAXEz9cejZ13oWzKGjnlEeer1pQJz1WnBgtP-o9gKZndMhBVdTORdVXuYD-3DeEzFnO0CYoq9xGgzuNwKXVVOtXkUBrJIgASoJdXMtd2VzdC0yMOUH.m3u8
+
+#EXTINF: -1 tvg-logo="https://bit.ly/46ZLdLP" group-title="REQUEST PLAYLIST", Cocola Broadcasting
+https://video-weaver.jkt02.hls.ttvnw.net/v1/playlist/CrcFuvk3i-Y8pBamgXXGjDDZ7BFEWCfS-aCl1JxXpYP7zRnEMJF0rKvvXwTyn7LjY_qgsrlQWVsgF_jhHYWjC97o1oHN9h9zA58iLckz6cB3vbv1YoXvs6QKR1r8nPBY-KcsPxIg8f4V-_WY0wA-cc2-Du7EHMLx5ddCe0leH4KW9resrdtUB8hvyrwfytX6XiGRwZUuvyvqlr-B-QCv64zEt6-7iRYO4V1pk86SuWV0SimqPzeFlM9Ul00azrbTbbI7bausjNNnwi0rXqAkvkt0WRNa2y_jbnyqtz89mHrZtwkAE6hwhJ-mUDHP1gAnYhwV3jEAYS_klguapoEZZIkZtuLPRGVGfPzJ8aJkKsBcxZ77LaAquHr764H7p3gBSqaVn7pQ0OolNqvBY5DRuplsEx7AtpAHLeLJYGSGEXknLCYhz6KDvQbTMnTFNf7brfQixlm3cJYF37j-v46soRK-UNZ-tkSmyG3naYR95QvNBrUt6VbOP3DB1riwgrXrbgfKGZ3TN2UKo5HD_MH3PF8sOB559RMPF6MCkYhp1tEEXaDs6glgzwd_E60S9mFFgwtq0eXyRLZsW1LKUMx6EnZf4_HVAUY2IfDVBPqRryc1BqwKgCLR_EQcIbOGRTwoL9J2EJDFCsxIwRiRC-mxYxD-HYiqIw6GYqEdkgHeTGuC6wJsDDn5jcuaGHPMwbI4zjWKnsBdIAglspH8tPnINUQ0fLuNUmo-kw2gg1eyeTFph3CMKXfIptAg3Ep9wdkv3o5g-muu5dTIrNu8R_qxw5bUIFEbtzxVxV4mSbGRxvB91vZzGlLoaiGRWGaUyxZIF887SzJOUxg7X4BPQ8xpOggN8WxTG4iIHdWUCj2zVorHCR9StYA84KkLiwjKsbgP6ph9GaQndxcRKLsNie-wRWRKVOugv6rgxBsaDMLJhuO3QVdePeqLUiABKgl1cy13ZXN0LTIw5Qc.m3u8
+
+#EXTINF: -1 tvg-logo="https://bit.ly/45x16YZ" group-title="REQUEST PLAYLIST", Cocola Broadcasting 1
+https://video-weaver.jkt02.hls.ttvnw.net/v1/playlist/CpwF6ZswHLj6OX9t6YmtM11HEJb4F16WJ-mW9AKLvCwYweuRMQs70nlt0ii6VeGqb1zPjOJaka-pOoMUztGc022LZTAoGcwji0ze-PUp7CSmRYLRH9onV7UfjvrsRGnJFLnZy84eAruPtzLJILHuvw-7Vo3fbE7czB_1ONDcdUI7-xtZnf6GLr1NCGJBB0ACQZTojnbdfCqnaJQn_vynUHXNod0sqdI3u9Qi9bAHsV-UKc4FF77w5tcXcjWl2IfeV8dTfJDnQtSWYyaF4S0EPqaJ4RMNa6WxnOQWvCI4l0epsKGWIRGjHE-BG2OwC-av5AZUFgWe3I8znqEryFkNq3sdcrCv5WQfn52I6YkMg50CDILj-yg1JNVwZa2hKhDN0RwfkQjJfXMy_i1edg9ghJAin-GiwzBwFvTCrDE1SdIApCtWQSD9ATM_-YNanclrDsaSQ5xc31NYhu-ucA9NVpEs4blZWDvuGi8JtwP6xvWnwZaIcZVW-5zlVX_YHEEaOgvZdyr1VH_mrHH5Rp6ii49ohgWZirl2o0U_cqplM4ejzsCGx6P-NhFZy6Q_-BafPkPzhNvEwhU4VFO0srfuv2R-qQDNlM7xDhqJigc_MWwgQnqgWShiDfE1bLnAEiMwJAPlck6z_Hb2rPfMCaG_18BIZuh71AUx5WTBeYjC_A6IeIgkxawVQmPzKbdF-kvqw86T60QBiRq-xr_t0A0NCVakkF7AqNoPH6kZ19TLByq4tem1aAW0I2bAcz-HtTvUOm7SJ98HF2HEMJGKc7IbrII_mVLWIzntTQknJDOmxt7AXVly_n2D5v2HfI3nD9EN3p98FIW9Oq9SuA-2FFVjfA_CSbaDpc2e5rO0Ix0CH6VenigkQy6BN1OiSoMw2LIaDNOnRb2grAR6cfVQpCABKgl1cy13ZXN0LTIw5Qc.m3u8
+
+#EXTINF: -1 tvg-logo="https://firstindianews.com/_next/image?url=%2Flogo.png&w=256&q=75" group-title="REQUEST PLAYLIST", First India News
+https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://bit.ly/46ZLdLP" group-title="REQUEST PLAYLIST", Cocola Broadcasting
+
+#EXTINF: -1 tvg-logo="https://bit.ly/46ZLdLP" group-title="REQUEST PLAYLIST", Cocola Broadcasting
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="NET.id" group-title="ERNESTO Indonesia" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.mncnow.id/images/channel/b32939e5/00e6_r32.jpg",NET 2986
+https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="ANTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/ANTV.png" group-title="ERNESTO Indonesia",ANTV 2986
+https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="DAAITV.id" tvg-name="DAAI TV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/DAAITV.png" group-title="ERNESTO Indonesia",DAAI TV
+https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.mncnow.id/images/channel/c8369888/3fdb_r32.jpg" group-title="ERNESTO Indonesia",RTV 2986
+https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png" group-title="ERNESTO Indonesia",Kompas TV HD 2986
+https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="MetroTV.id" group-title="ERNESTO Indonesia" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV 2986
+https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="tvOne.id" group-title="ERNESTO Indonesia" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne 2986
+https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="ERNESTO Indonesia" tvg-id="mncnews.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.mncnow.id/images/channel/1f476919/6c87_r32.jpg",SindoNews 2986
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="ERNESTO Indonesia" tvg-id="iNews.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNews 2986
+https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="BeritaSatuNewsChannel.id" group-title="ERNESTO Indonesia" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/BTV.png",BTV 2986
+https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.mncnow.id/images/channel/c57573a6/f784_r32.jpg" group-title="ERNESTO Indonesia",TVRI Nasional 2986
+https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="ERNESTO Indonesia", Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="ERNESTO Indonesia", Nusantara TV 2986
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU" group-title="ERNESTO Indonesia",Indonesiana TV 2986
+https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="ERNESTO Indonesia", INDOSIAR S1
+http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/162138
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="ERNESTO Indonesia", INDOSIAR S2
+http://kuchini.site:8080/F30140/f3de2280/162138
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="Indonesia ERNESTO", INDOSIAR S3
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162138
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="ERNESTO Indonesia", SPORTSTARS S1
+http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298549
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="ERNESTO Indonesia", SPORTSTARS S2
+http://kuchini.site:8080/F30140/f3de2280/298549
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA BRI 1🇲🇨#", SPORTSTARS S3
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298549
+
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="ERNESTO Indonesia", RCTI S1
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157591
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="ERnesto Indonesia", RCTI S2
+http://kuchini.site:8080/F30140/f3de2280/157591
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="ERnesto Indonesia", RCTI S3
+http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/157591
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="ERnesto Indonesia", MOJI S1
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298550
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="ERnesto Indonesia", MOJI S2
+http://kuchini.site:8080/F30140/f3de2280/298550
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="ERnesto Indonesia", MOJI S3
+http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298550
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ERnesto Indonesia", 785 Asian Games Hangzhou 2023
+https://ktpremium.com:443/M919HR/5577/932288
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ERnesto Indonesia", 786 Asian Games Hangzhou 2023
+https://ktpremium.com:443/M919HR/5577/932289
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ERnesto Indonesia", 787 Asian Games Hangzhou 2023
+https://ktpremium.com:443/M919HR/5577/932290
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ERnesto Indonesia", 788 Asian Games Hangzhou 2023
+https://ktpremium.com:443/M919HR/5577/932471
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ERnesto Indonesia", 789 Asian Games Hangzhou 2023
+https://ktpremium.com:443/M919HR/5577/932472
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ERnesto Indonesia", 790 Asian Games Hangzhou 2023
+https://ktpremium.com:443/M919HR/5577/932473
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="ERnesto Indonesia",RCTI HD
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="ERnesto Indonesia",MNC TV
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="GTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/GTV.png" group-title="ERnesto Indonesia",GTV
+https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="ERnesto Indonesia",TransTV HD
+https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="ERnesto Indonesia",Trans7 HD
+https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="ERnesto Indonesia",Moji
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
+
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="ERnesto Indonesia",Moji
+http://tvnid.x10.mx/vidio/master-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="ERnesto Indonesia" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="SCTV.id" tvg-name="SCTV", SCTV 
+http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="ERnesto Indonesia" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar HD 
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+
+#EXTINF:-1 tvg-id="NET.id" group-title="ERnesto Indonesia" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.mncnow.id/images/channel/b32939e5/00e6_r32.jpg",NET
+https://op-group1-swiftservehd-1.dens.tv/h/h06/01.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="NET.id" group-title="ERnesto Indonesia" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.mncnow.id/images/channel/b32939e5/00e6_r32.jpg",NET
+https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="ANTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/ANTV.png" group-title="ERnesto Indonesia",ANTV
+https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="DAAITV.id" tvg-name="DAAI TV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/DAAITV.png" group-title="ERnesto Indonesia",DAAI TV
+https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.mncnow.id/images/channel/c8369888/3fdb_r32.jpg" group-title="ERnesto Indonesia",RTV
+https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png" group-title="ERnesto Indonesia",Kompas TV HD
+https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="MetroTV.id" group-title="ERnesto Indonesia" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV
+https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="tvOne.id" group-title="ERnesto Indonesia" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne
+https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="ERnesto Indonesia" tvg-id="mncnews.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.mncnow.id/images/channel/1f476919/6c87_r32.jpg",SindoNews
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="ERnesto Indonesia" tvg-id="iNews.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNews
+https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="BeritaSatuNewsChannel.id" group-title="ERnesto Indonesia" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/BTV.png",BTV
+https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.mncnow.id/images/channel/c57573a6/f784_r32.jpg" group-title="ERnesto Indonesia",TVRI Nasional
+https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="ERnesto Indonesia", Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="ERnesto Indonesia", Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU" group-title="ERnesto Indonesia",Indonesiana TV
+https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
+
+
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="ERnesto Movies",HBO
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197972
+
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HITS.png" group-title="ERnesto Movies",HBO Hits
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/196480
+
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20Family.png" group-title="ERnesto Movies",HBO Family
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197055
+
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="ERnesto Movies",HBO Signature
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/221948
+
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemax.png" group-title="ERnesto Movies",Cinemax
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197964
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="HITS.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Hits.png" group-title="ERnesto Movies",Hits
+#https://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+#EXTINF:-1 tvg-id="HITS.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Hits.png" group-title="ERnesto Movies",Hits
+http://210.210.155.37/dr9445/h/h37/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="HitsMovies.sg" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Hits%20Movies.png" group-title="ERnesto Movies",HitsMovies
+https://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+#EXTINF:-1 tvg-id="ROCKAction.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.mncnow.id/images/channel/b104eede/2fe8_r32.jpg" group-title="ERnesto Movies",Rock Action
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="ERnesto Movies" tvg-id="GALAXYPremium" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Galaxy Premium
+https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="ERnesto Movies" tvg-id="GALAXY" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Galaxy%20Premium.png",Galaxy
+https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="ERnesto Movies" tvg-id="ParamountNetwork.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png",Paramount Network
+https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
+
+#EXTINF:-1 group-title="ERnesto Movies" tvg-id="ParamountNetwork.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png",Paramount Network (Sub Indonesia)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="ERnesto Movies" tvg-id= "KIX.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/KIX_LOGO_150x150.jpg",KIX
+https://nyanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="ERnesto Movies",Thriil
+https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Celestial%20Movies.png" group-title="ERnesto Movies",Celestial Movies
+https://nyanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="CCM.hk" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/CCM.png" group-title="ERnesto Movies",Celestial Classic
+https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="ERnesto Movies" tvg-id= "CinemaWorld.my" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://yt3.googleusercontent.com/kLDF64sdHJiS3n7t59yPqtNTsp3xjx4FhnTXg5RDubB2Ps7Pxc-mZpV8YezhdsJl7xB6r4Kpqg=s900-c-k-c0x00ffffff-no-rj",Cinema World HD
+https://nyanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gem_TV_logo_2020.png/800px-Gem_TV_logo_2020.png" group-title="ERnesto Movies",Sony GEM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch338)/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="MyCinema" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_16.jpg" group-title="ERnesto Movies",MyCinema
+https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="MyCinemaAsia" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_17.jpg" group-title="ERnesto Movies",MyCinema Asia
+https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="MyFamilyChannel" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_15.jpg" group-title="ERnesto Movies",My Family
+https://nyanv-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="Cinemachi" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemachi.png" group-title="ERnesto Movies",Cinemachi HD
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="CinemachiKids" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemachi%20Kids.png" group-title="ERnesto Movies",Cinemachi Kids HD
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="CinemachiAction" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemachi%20Action.png" group-title="ERnesto Movies",Cinemachi Action HD
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="CinemachiMax" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemachi%20MAX.png" group-title="ERnesto Movies",Cinemachi Max HD
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="CinemachiXtra" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemachi%20Xtra.png" group-title="ERnesto Movies",Cinemachi Xtra HD
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="IMC" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/IMC.png" group-title="ERnesto Movies",Indonesia Movie Channel
+https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="Premium Movies",Bioskop Indonesia
+https://ktpremium.com:443/w3399/929720573727/73873
+
+#EXTINF: -1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Citra%20Bioskop.png" group-title="ERnesto Movies",Citra Bioskop
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="FMN.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/FMN.png" group-title="ERnesto Movies",FMN (Telenovela)
+https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="Premium Movies" tvg-id="ZeeBioskop.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Zee Bioskop
+https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Ge Er (Gede Rasa) (1980) SUB INDO
+http://abf.filmbluray.id/1td6drb
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Gengsi Dong (1980) SUB INDO
+http://abf.filmbluray.id/pc5hdir
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Pintar Pintar Bodoh (1980) SUB INDO
+http://abf.filmbluray.id/u4hspqy
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", IQ Jongkok (1981) SUB INDO
+http://abf.filmbluray.id/osrg3o1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Chips (1982) SUB INDO
+http://abf.filmbluray.id/kw19hjb
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Maju Kena Mundur Kena (1983) SUB INDO
+http://abf.filmbluray.id/jkvjjin
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Pokoknya Beres (1983) SUB INDO
+http://abf.filmbluray.id/zxfzjhm
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Itu Bisa Diatur (1984) SUB INDO
+http://abf.filmbluray.id/do3ugxv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Tahu Diri Dong (1984) SUB INDO
+http://abf.filmbluray.id/u752m23
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Gantian Dong (1985) SUB INDO
+http://abf.filmbluray.id/rq99s97
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Kesempatan Dalam Kesempitan (1985) SUB INDO
+http://abf.filmbluray.id/f7gfa43
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Sama Juga Bohong (1986) SUB INDO
+http://abf.filmbluray.id/7e8joq7
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Depan Bisa Belakang Bisa (1987) SUB INDO
+http://abf.filmbluray.id/zobm5cs
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Bisa Naik Bisa Turun (1991) SUB INDO
+http://abf.filmbluray.id/94cu9o0
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Bebas Aturan Main (1993) SUB INDO
+http://abf.filmbluray.id/qn276o5
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Salah Masuk (1993) SUB INDO
+http://abf.filmbluray.id/o6gedd9
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Pencet Sana Pencet Sini (1994) SUB INDO
+http://abf.filmbluray.id/wxvxwdc
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Saya Duluan Dong (1994) SUB INDO
+http://abf.filmbluray.id/w26tyv5
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/dkireborn.png", Warkop DKI Reborn (2019) SUB INDO
+http://abf.filmbluray.id/zcricf6
+
+#EXTINF:-1 group-title="Warkop DKI",Makin Lama Makin Asyik
+https://www.googleapis.com/drive/v3/files/1HhCk4RVzPTjAYUbvxqTztJpmf6E5xxu0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="Warkop DKI",Mana Bisa Tahan
+https://www.googleapis.com/drive/v3/files/1lTAXcjTxr9i1ifT1KYmLwGS5RZrS0TNi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="Warkop DKI",Masuk Kena Keluar Kena
+https://www.googleapis.com/drive/v3/files/1u6Cxf8zEh7Nah0-Um9FZJxHwQX8jtNaD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="Warkop DKI",Pencet Sana Pencet Sini
+https://www.googleapis.com/drive/v3/files/1z_nqnmq7JGcAmXTIyYmeknS26CPIBlOd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="Warkop DKI",Mana Tahan
+https://rr4---sn-2uuxa3vh-jb3ez.googlevideo.com/videoplayback?expire=1688988096&ei=YJWrZIrxCKWCmLAPi7WkkAw&ip=197.101.30.248&id=o-AH6Yk5fWbnotccZKNUY-MADG5ekVAQU-8T1NkqH3p7K7&itag=22&source=youtube&requiressl=yes&spc=Ul2SqzjLyn2v4WjUih2PpYMB4ZSLJIGuqTLWDRfkZA&vprv=1&svpuc=1&mime=video%2Fmp4&ns=ZA1zNw93aEUZjq_vs7XvXM4O&cnr=14&ratebypass=yes&dur=5120.000&lmt=1685372521185710&fexp=24007246,51000012,51000022&c=WEB&txp=5318224&n=mlKTAfcCEjxlfg&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgLFur4m5i-AImB3UZfwOBKb5l17JV3R0EfNFypRcEeTcCIQDRzH68K71eo5TH7hQUtt4ulnjWArMHITvcyBFjUEDklQ%3D%3D&title=Warkop DKI%20DKI%20-%20Mana%20Tahan%20(1979)%20Full%20Movie&rm=sn-pn-j2ue7l,sn-wocr7s&req_id=57a531e5ee23a3ee&cmsv=e&redirect_counter=2&cms_redirect=yes&ipbypass=yes&mh=fC&mip=180.251.180.22&mm=29&mn=sn-2uuxa3vh-jb3ez&ms=rdu&mt=1688966235&mv=m&mvi=4&pl=22&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgCY18cGS4ghYN_s2Idx3VRRxn9GeO99zQ-xe3AI-6jhsCIQC2LLbbdUabiAuuRic4HO3CTwCO-HKxshno98vv5PsVZA%3D%3D
+
+#EXTINF:-1 tvg-logo="https://dutamovie21.live/wp-content/uploads/2022/09/zB6uCpwsTsVT3kLNmV1TtHs7XqV.jpg" group-title="Warkop DKI",Warkop DKI DKI Reborn: Jangkrik Boss! Part 4 (2020)
+https://www.googleapis.com/drive/v3/files/1UdAXo8vkJ2KWLh_yvhmqVLjsM7jRdTSb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://dutamovie21.live/wp-content/uploads/2022/09/zB6uCpwsTsVT3kLNmV1TtHs7XqV.jpg" group-title="Warkop DKI",Warkop DKI DKI Reborn: Jangkrik Boss! Part 3 (2019)
+https://www.googleapis.com/drive/v3/files/17-oEnc4cewfvp8a0Kt63eC8fsVaEA_fl?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://ngefilm21.lol/wp-content/uploads/2023/03/s8hK5qbBYo98DLSVLof4bfUdlGN.jpg" group-title="Warkop DKI",Warkop DKI DKI Reborn: Jangkrik Boss! Part 2 (2017)
+https://www.googleapis.com/drive/v3/files/1V-rl0DYkVRwRLn8NbZUSZDV94ERRbgJm?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://ngefilm21.lol/wp-content/uploads/2023/03/d9JVFB2xEBI8Y68hFx0n2pYEfsY.jpg" group-title="Warkop DKI",Warkop DKI DKI Reborn: Jangkrik Boss! Part 1 (2016)
+https://www.googleapis.com/drive/v3/files/1X50_Pk5SDrfoXe_ol7RwiD5xHCScSQPS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="Warkop DKI",Maju Kena Mundur Kena
+https://www.googleapis.com/drive/v3/files/1zo1qNkMBqm3WNRieHCn4jHa5TdslbMT7?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://ngefilm21.lol/wp-content/uploads/2022/09/itxUbDBukZisr9BsHi7Z4HPN6RH.jpg" group-title="Warkop DKI",Makin Lama Makin Asyik
+https://www.googleapis.com/drive/v3/files/1obXuYdoEcU9-wLBq1QHKGOnWwCXErhIO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://ngefilm21.lol/wp-content/uploads/2022/09/qRDEDgm7WQQjaLgQAag962nCqid.jpg"group-title="Warkop DKI",Mana Bisa Tahan
+https://www.googleapis.com/drive/v3/files/1n9ZYDxtLdRVFEth3P_opwEb5pU8vkoGU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="Warkop DKI",Masuk Kena Keluar Kena
+https://www.googleapis.com/drive/v3/files/1_8pEMpD0_4COaJJASwjNUdqtAXUyvOJA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://file.indonesianfilmcenter.com/uploads/2018-12/pencet-sana-pencet-sini.jpg" group-title="Warkop DKI",Pencet Sana Pencet Sini
+https://www.googleapis.com/drive/v3/files/1z_nqnmq7JGcAmXTIyYmeknS26CPIBlOd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="http://cds.bet/wp-content/uploads/2019/10/jSz6jRyPs9aCvQHlpJlXAxCbTGR-150x225.jpg" group-title="Warkop DKI",Dongkrak Antik (1982)
+https://storage.googleapis.com/c0bdaf0bc060292fb3a.appspot.com/05ad4ec7756d92921409243dcd0bbc75_1668776586.mp4?sumber=awal_storage
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Ge Er (Gede Rasa) (1980) SUB INDO
+http://abf.filmbluray.id/1td6drb
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Gengsi Dong (1980) SUB INDO
+http://abf.filmbluray.id/pc5hdir
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Pintar Pintar Bodoh (1980) SUB INDO
+http://abf.filmbluray.id/u4hspqy
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", IQ Jongkok (1981) SUB INDO
+http://abf.filmbluray.id/osrg3o1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Chips (1982) SUB INDO
+http://abf.filmbluray.id/kw19hjb
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Maju Kena Mundur Kena (1983) SUB INDO
+http://abf.filmbluray.id/jkvjjin
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Pokoknya Beres (1983) SUB INDO
+http://abf.filmbluray.id/zxfzjhm
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Itu Bisa Diatur (1984) SUB INDO
+http://abf.filmbluray.id/do3ugxv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Tahu Diri Dong (1984) SUB INDO
+http://abf.filmbluray.id/u752m23
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Gantian Dong (1985) SUB INDO
+http://abf.filmbluray.id/rq99s97
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Kesempatan Dalam Kesempitan (1985) SUB INDO
+http://abf.filmbluray.id/f7gfa43
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Sama Juga Bohong (1986) SUB INDO
+http://abf.filmbluray.id/7e8joq7
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Depan Bisa Belakang Bisa (1987) SUB INDO
+http://abf.filmbluray.id/zobm5cs
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Bisa Naik Bisa Turun (1991) SUB INDO
+http://abf.filmbluray.id/94cu9o0
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Bebas Aturan Main (1993) SUB INDO
+http://abf.filmbluray.id/qn276o5
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Salah Masuk (1993) SUB INDO
+http://abf.filmbluray.id/o6gedd9
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Pencet Sana Pencet Sini (1994) SUB INDO
+http://abf.filmbluray.id/wxvxwdc
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Saya Duluan Dong (1994) SUB INDO
+http://abf.filmbluray.id/w26tyv5
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/dkireborn.png", Warkop DKI Reborn (2019) SUB INDO
+http://abf.filmbluray.id/zcricf6
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF: -1 tvg-logo="https://bit.ly/3SbgO97" group-title="ERnesto Sport Event Live", KoRa S6
+#EXTVLCOPT:http-referrer=https://techclips.net/2022/s7/
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://techclips.net/2022/s7
+#EXTINF: -1 tvg-logo="https://www.logotipo.pt/wp-content/uploads/2018/03/artigo-F1-novo-2.jpg" group-title="ERnesto Sport Event Live", FI
+#EXTVLCOPT:http-referrer=https://techclips.net/2022/s7/
+https://nflarcadia.xyz/hls/f1.m3u8
+
+#EXTINF:-1 group-title="ERNESTO KIDS",ANGRY BIRD TV
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/298493
+
+#EXTINF:-1 group-title="ERNESTO KIDS",DONALD DUCK
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/298495
+
+#EXTINF:-1 group-title="ERNESTO KIDS",Tom And Jerry
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/298500
+
+#EXTINF:-1 group-title="ERNESTO KIDS",TELETUBBIES
+https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
+
+
+
+ #EXTINF:0 group-title="ERnesto Sport Event Live" tvg-logo="https://www.logotipo.pt/wp-content/uploads/2018/03/artigo-F1-novo-2.jpg",MOTO GP #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 #EXTINF:0 group-title="ERnesto Sport Event Live" tvg-logo="https://www.logotipo.pt/wp-content/uploads/2018/03/artigo-F1-novo-2.jpg",MOTO GP #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:0 group-title="ERnesto Sport Event Live" tvg-logo="",MOTO GP #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT https://bromo.kdb.co.id/Trans7/index.m3u8
+
+ #EXTINF:0 group-title="UFC & BOXING" tvg-logo="https://mma.uno/wp-content/uploads/2017/04/UFCNetwork.png",UFC LIVE 1 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 https://nflarcadia.xyz/hls/m1.m3u8?|Referer=https://techclips.net/2022/u1 
+
+#EXTINF:-1 group-title="ERnesto Sport Event Live" tvg-logo="https://mma.uno/wp-content/uploads/2017/04/UFCNetwork.png", DttyttttyyyUFC LIVE 2 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 https://reels2watch.com/hls/m2.m3u8?|Referer=https://techclips.net/2022/u2
+
+#EXTINF: -1 tvg-logo="https://mma.uno/wp-content/uploads/2017/04/UFCNetwork.png" group-title="ERnesto Sport Event Live", BOXING LIVE 1 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+|Referer=https://techclips.net/2022/f1
+https://cdn4.reels2watch.com/hls/b1.m3u8?
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://techclips.net
+#EXTINF: -1 tvg-logo="https://bit.ly/3SbgO97" group-title="ERnesto Sport Event Live", KoRa S6
+#EXTVLCOPT:http-referrer=https://techclips.net/clip/s6.html
+https://reels2watch.com/hls/s6.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://techclips.net
+#EXTINF: -1 tvg-logo="https://bit.ly/3SbgO97" group-title="ERnesto Sport Event Live", KoRa S1
+#EXTVLCOPT:http-referrer=https://techclips.net/clip/s1.html
+https://nflarcadia.xyz/hls/s1.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kora11.alkoora.live
+#EXTINF: -1 tvg-logo="https://bit.ly/3SbgO97" group-title="ERnesto Sport Event Live", KoRa S7
+#EXTVLCOPT:http-referrer=https://kora11.alkoora.live/
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/F7e5EN9JIQsLBb9EffMzmNmyv46mofqxUzoZteJ4s0ExOiRbJxz822yaMnPGSpqr_k9JlLNd4H89UUzgfphnUg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kora11.alkoora.live
+#EXTINF: -1 tvg-logo="https://bit.ly/3SbgO97" group-title="ERnesto Sport Event Live", KoRa9
+#EXTVLCOPT:http-referrer=https://kora11.alkoora.live/
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kora11.alkoora.live
+#EXTINF: -1 tvg-logo="https://bit.ly/3SbgO97" group-title="ERnesto Sport Event Live", Sport1
+#EXTVLCOPT:http-referrer=https://kora11.alkoora.live/
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b125000_t64MTgwcA==.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://furher.in
+#EXTINF: -1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/10/film-doraemon-the-movie-nobitas-sky-utopia-2023-lk21-d21.jpg" group-title="ERnesto Serial Bioskop", DORAEMON THE MOVIE: NOHITAS'S SKY UTOPIA 2023
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/video.php?id=4b82837f3377e0156e0b80d82ea40cb5
+https://stream.hownetwork.xyz/yyy/doraemon-the-movie-nobitas-sky-utopia-2023-bluray/16/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://furher.in
+#EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2017/01/film-doraemon-nobita-no-kyoryu-2006.jpg" group-title="ERnesto Serial DORAEMON", DORAEMON THE MOVIE: NOBITA’S DINOSAUR (2006)
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/video.php?id=5555dda06c90c06973dbfbbd61e0740d
+https://stream.hownetwork.xyz/yyy/doraemon-nobita-no-kyoryu-2006-bluray/4/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://furher.in
+#EXTINF: -1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2016/05/film-doraemon-movie-nobitas-new-great-adventure-underworld-seven-magic-users-2007.jpg" group-title="ERnesto Serial DORAEMON",
+DORAEMON THE MOVIE: NOBITA’S NEW GREAT ADVENTURE INTO THE UNDERWORLD – THE SEVEN MAGIC USERS (DORAEMON: NOBITA NO SHIN MAKAI DAIBÔKEN) (2007)
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/video.php?id=8a4186fdd632d9c22f61dfe28306d67c
+https://stream.hownetwork.xyz/yyy/doraemon-movie-nobitas-new-great-adventure-underworld-seven-magic-users-2007-bluray/10/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://furher.in
+#EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2017/02/film-doraemon-nobita-and-the-green-giant-legend-2008.jpg" group-title="ERnesto Serial DORAEMON",
+DORAEMON: NOBITA AND THE GREEN GIANT LEGEND (DORAEMON: NOBITA TO MIDORI NO KYOJINDEN) (2008)
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/video.php?id=b3c7ca93d4cf3de3df8005f0b1a4feed
+https://stream.hownetwork.xyz/yyy/doraemon-nobita-green-giant-legend-2008-bluray/3/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://furher.in
+#EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2017/02/film-eiga-doraemon-shin-nobita-no-uchu-kaitakushi-2009.jpg" group-title="ERnesto Serial DORAEMON",
+DORAEMON THE MOVIE: THE NEW RECORDS OF NOBITA’S SPACEBLAZER (EIGA DORAEMON: SHIN. NOBITA NO UCHÛ KAITAKUSHI) (2009)
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/video.php?id=29c651da91227676f33ba37a2fd02450
+https://stream.hownetwork.xyz/yyy/eiga-doraemon-shin-nobita-no-uchu-kaitakushi-2009-bluray/8/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://furher.in
+#EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2016/11/film-doraemon-the-movie-nobitas-mermaid-legend-2010.jpg" group-title="ERnesto Serial DORAEMON",
+DORAEMON THE MOVIE: NOBITA’S GREAT BATTLE OF THE MERMAID KING (2010)
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/video.php?id=744877f63709e849529b1d431cfadeec
+https://stream.hownetwork.xyz/yyy/doraemon-movie-nobitas-mermaid-legend-2010-bluray/4/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://furher.in
+#EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2017/02/film-doraemon-nobita-and-the-island-of-miracles-animal-adventure-2012.jpg" group-title="ERnesto Serial DORAEMON",
+DORAEMON: NOBITA AND THE ISLAND OF MIRACLES – ANIMAL ADVENTURE (EIGA DORAEMON: NOBITA TO KISEKI NO SHIMA – ANIMARU ADOBENCHÂ) (2012)
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/video.php?id=c6b304f1f22ca1fd39ba5b7b60e9a7b2
+https://stream.hownetwork.xyz/yyy/doraemon-nobita-island-miracles-animal-adventure-2012-bluray/10/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://furher.in
+#EXTINF: -1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2016/04/film-doraemon-the-movie-nobitas-secret-gadget-museum-2013.jpg" group-title="ERnesto Serial DORAEMON", DORAEMON: NOBITA’S SECRET GADGET MUSEUM (2013)
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/video.php?id=1819ff432b42f5968c865a526cc4de0e
+https://stream.hownetwork.xyz/yyy/doraemon-movie-nobitas-secret-gadget-museum-2013-bluray/3/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://furher.in
+#EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2023/07/film-doraemon-new-nobitas-great-demon-peko-and-the-exploration-party-of-five-2014-lk21-d21.jpg" group-title="ERnesto Serial DORAEMON", DORAEMON: NEW NOBITA’S GREAT DEMON-PEKO AND THE EXPLORATION PARTY OF FIVE (2014)
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/video.php?id=b3c986150fce219755a28bfadeba2113
+https://stream.hownetwork.xyz/yyy/doraemon-new-nobitas-great-demon-peko-and-the-exploration-party-of-five-2014-bluray/6/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://furher.in
+#EXTINF: -1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2016/03/film-stand-doraemon-2014.jpg" group-title="ERnesto Serial DORAEMON", STAND BY ME DORAEMON (2014)
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/video.php?id=8e477597d03323093039e5a6080ef23a
+https://stream.hownetwork.xyz/yyy/stand-doraemon-2014-bluray/2/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://furher.in
+#EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2015/12/film-doraemon-nobita-and-the-space-heroes-2015.jpg" group-title="ERnesto Serial DORAEMON", DORAEMON: NOBITA AND THE SPACE HEROES (2015)
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/video.php?id=ccefcb2175af9d5e11e38fc82afe1278
+https://stream.hownetwork.xyz/yyy/doraemon-nobita-and-the-space-heroes-2015-bluray/1/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://furher.in
+#EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2016/08/film-eiga-doraemon-shin-nobita-no-nippon-tanjou-2016.jpg" group-title="ERnesto Serial DORAEMON",
+DORAEMON THE MOVIE: NOBITA AND THE BIRTH OF JAPAN (EIGA DORAEMON: SHIN NOBITA NO NIPPON TANJOU) (2016)
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/video.php?id=246c3830fce2dccc00988629671588d3
+https://stream.hownetwork.xyz/yyy/eiga-doraemon-shin-nobita-no-nippon-tanjou-2016-bluray/2/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://furher.in
+#EXTINF: -1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2017/08/film-eiga-doraemon-nobita-no-nankyoku-kachikochi-daibouken-2017.jpg" group-title="ERnesto Serial DORAEMON",
+DORAEMON: GREAT ADVENTURE IN THE ANTARCTIC KACHI KOCHI (EIGA DORAEMON: NOBITA NO NANKYOKU KACHIKOCHI DAIBOUKEN) (2017)
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/video.php?id=dfd1fa4ddc53f29b8839c2758779201a
+https://stream.hownetwork.xyz/yyy/doraemon-great-adventure-antarctic-kachi-kochi-2017-lk21-bluray/6/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://furher.in
+#EXTINF: -1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2018/08/film-doraemon-the-movie-nobitas-treasure-island-doraemon-nobita-no-takarajima-2018-lk21.jpg" group-title="ERnesto Serial DORAEMON",
+DORAEMON THE MOVIE: NOBITA’S TREASURE ISLAND (DORAEMON NOBITA NO TAKARAJIMA) (2018)
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/video.php?id=667ef0396980524a5d016bcd616634df
+https://stream.hownetwork.xyz/yyy/doraemon-the-movie-nobitas-treasure-island-doraemon-nobita-no-takarajima-2018-bluray/6/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://furher.in
+#EXTINF: -1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2019/08/film-doraemon-nobitas-chronicle-of-the-moon-exploration-eiga-doraemon-nobita-no-getsumen-tansaki-2019-lk21.jpg" group-title="ERnesto Serial DORAEMON", DORAEMON: NOBITA’S CHRONICLE OF THE MOON EXPLORATION (EIGA DORAEMON: NOBITA NO GETSUMEN TANSAKI) (2019)
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/video.php?id=eb259cb3299b3471a6c02e139732e931
+https://stream.hownetwork.xyz/yyy/doraemon-nobitas-chronicle-of-the-moon-exploration-eiga-doraemon-nobita-no-getsumen-tansaki-2019-bluray/3/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://furher.in
+#EXTINF: -1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/07/film-doraemon-the-movie-nobitas-new-dinosaur-2020-lk21-d21.jpg" group-title="ERnesto Serial DORAEMON", DORAEMON THE MOVIE: NOBITA’S NEW DINOSAUR (2020)
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/video.php?id=5203fabdb7fcf93fb39ca5d47ef42620
+https://stream.hownetwork.xyz/yyy/doraemon-the-movie-nobitas-new-dinosaur-2020-bluray/2/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://furher.in
+#EXTINF: -1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2021/04/film-stand-by-me-doraemon-2-2020-lk21.jpg" group-title="ERnesto Serial DORAEMON", STAND BY ME DORAEMON 2 (2020)
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/video.php?id=fd0c77523729dde658c6d1c72cbf0101
+https://stream.hownetwork.xyz/yyy/stand-by-me-doraemon-2-2020-bluray/3/480.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://furher.in
+#EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/07/film-doraemon-the-movie-nobitas-little-star-wars-2021-2022-lk21-d21.jpg" group-title="ERnesto Serial DORAEMON", DORAEMON THE MOVIE: NOBITA’S LITTLE STAR WARS 2021 (2022)
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/video.php?id=04da22fc98450044e492a67be30377e8
+https://stream.hownetwork.xyz/yyy/doraemon-the-movie-nobitas-little-star-wars-2021-2022-bluray/2/480.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://furher.in
+#EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2015/12/film-tom-and-jerry-blast-off-to-mars-2005.jpg" group-title="ERnesto Serial TOM & JERRY", TOM AND JERRY BLAST OFF TO MARS! (2005)
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/video.php?id=e470cc61d9579081857dd800197671d3
+https://stream.hownetwork.xyz/yyy/tom-and-jerry-blast-off-to-mars-2005-bluray/11/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://furher.in
+#EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2016/01/film-tom-and-jerry-the-fast-and-the-furry-2005.jpg" group-title="ERnesto Serial TOM & JERRY", TOM AND JERRY: THE FAST AND THE FURRY (2005)
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/video.php?id=172430eec0a0c90b25a3ed4de8a4530d
+https://stream.hownetwork.xyz/yyy/tom-and-jerry-the-fast-and-the-furry-2005-bluray/17/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://furher.in
+#EXTINF: -1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2015/12/film-tom-and-jerry-the-lost-dragon-2014.jpg" group-title="ERnesto Serial TOM & JERRY", TOM AND JERRY: THE LOST DRAGON (2014)
+#EXTVLCOPT:http-referrer=https://furher.in/
+https://be7713.rcr82.waw05.cdn112.com/hls2/01/02756/sy376cp8diaa_n/index-v1-a1.m3u8?t=NsOiSYRRobl3j-KOLPEC24e5CpqATiBG2qWr2qbEXCo&s=1698854062&e=43200&f=13781871&srv=24&asn=59150&sp=2500
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://furher.in
+#EXTINF: -1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2016/07/film-tom-and-jerry-spy-quest-2015.jpg" group-title="ERnesto Serial TOM & JERRY", TOM AND JERRY: SPY QUEST (2015)
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/video.php?id=84507098685f7cee3f992d6aabb47e86
+https://stream.hownetwork.xyz/yyy/tom-jerry-spy-quest-2015-bluray/9/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://furher.in
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbBzq8bVF5LT3fOjsWbCeieqlMNfkyisv9sQ&usqp=CAU" group-title="ERnesto Serial TOM & JERRY", TOM AND JERRY: WILLY WONKA AND THE CHOCOLATE FACTORY (2017)
+#EXTVLCOPT:http-referrer=stream.hownetwork.xyz/video.php?id=9e87cc0061b7bec4a9e49943aa8d2b4a
+https://stream.hownetwork.xyz/yyy/tom-jerry-willy-wonka-chocolate-factory-2017-webdl/11/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://furher.in
+#EXTINF: -1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2015/12/film-tom-and-jerry-robin-hood-and-his-merry-mouse-2012.jpg" group-title="ERnesto Serial TOM & JERRY", TOM AND JERRY: ROBIN HOOD AND HIS MERRY MOUSE (2012)
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/video.php?id=adcbd12387fd59c0b0bf740ab1c384af
+https://stream.hownetwork.xyz/yyy/tom-and-jerry-robin-hood-and-his-merry-mouse-2012-bluray/11/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://furher.in
+#EXTINF: -1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2021/02/film-tom-and-jerry-2021-lk21.jpg" group-title="ERnesto Serial TOM & JERRY", TOM AND JERRY (2021)
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/video.php?id=b12d61fe3bbe54606db64592c66f5af7
+https://stream.hownetwork.xyz/yyy/tom-and-jerry-2021-bluray/11/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://furher.in
+#EXTINF: -1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/01/film-tom-and-jerry-cowboy-up-2022-lk21-d21.jpg" group-title="ERnesto Serial TOM & JERRY", TOM AND JERRY: COWBOY UP! (2022)
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/video.php?id=e4ebacdbefbf5a72dc5fc4a11501707a
+https://stream.hownetwork.xyz/yyy/tom-and-jerry-cowboy-up-2022-webrip/3/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://furher.in
+#EXTINF: -1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/06/film-tom-and-jerry-snowmans-land-2022-lk21-d21.jpg" group-title="ERnesto Serial TOM & JERRY", TOM AND JERRY: SNOWMAN’S LAND (2022)
+#EXTVLCOPT:http-referrer=https://stream.hownetwork.xyz/video.php?id=67a1da331b621…
