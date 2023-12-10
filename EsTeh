@@ -68,6 +68,13 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 #EXTVLCOPT:http-referrer=https://goal.yalla-shoot-tv.live/
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://goal.yalla-shoot-tv.live
+#EXTINF: -1 tvg-logo="https://bit.ly/3FOJCNn" group-title="ALL in", Yalla shoot 2986
+#EXTVLCOPT:http-referrer=https://onlinea.yalla-shoot-tv.live/matches/barcelona-vs-girona/#
+https://bl.rutube.ru/livestream/21b414b2d3aec80fa830d95ddbb61331/index.m3u8?s=XEGlznQkX9Kq70iCVnUP9g&e=1702326733&scheme=https
+
+
 #EXTINF:0 group-title="ERNESTO" tvg-logo="https://w7.pngwing.com/pngs/239/762/png-transparent-rcti-television-logo-gtv-sctv-tv-program-logo-blue-text-trademark.png",RCTI https://d1pnf1a0i0fmio.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="ALL in", ##ALL in###
