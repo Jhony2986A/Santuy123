@@ -80,6 +80,23 @@ https://bl.rutube.ru/livestream/21b414b2d3aec80fa830d95ddbb61331/index.m3u8?s=XE
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/inaldie/main/GridArt_20230723_141247589.png" group-title="ALL in", ##ALL in###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
+bola
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://goal.yalla-shoot-tv.live
+#EXTINF: -1 tvg-logo="https://bit.ly/3FOJCNn" group-title="BOLA", Yalla shoot EDO
+#EXTVLCOPT:http-referrer=https://onlinea.yalla-shoot-tv.live/
+https://river-5-511.rutube.ru/stream/genetta-525.ost.rutube.ru/fZxq9bI2cBMOn0qlO-3xqQ/1702577531/0b487ab5b47a267a8e245e8ff1eb8056/360p_stream.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://goal.yalla-shoot-tv.live
+#EXTINF: -1 tvg-logo="https://bit.ly/3FOJCNn" group-title="BOLA", Yalla shoot 2986 EDO 2
+#EXTVLCOPT:http-referrer=https://onlinea.yalla-shoot-tv.live/
+https://river-5-511.rutube.ru/stream/genetta-324.m9.rutube.ru/k7eZmyMu-qSgYdQqYQpY_w/1702577945/07e5e2baf6391262053c1e694689d190/360p_stream.m3u8
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="ALL in",DAZN
